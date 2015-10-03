@@ -130,3 +130,5 @@ Các câu lệnh tạo sửa xóa file và folder trên ubuntu
 <img src="http://i.imgur.com/6bc14B1.png">
 
 **Chú ý**:Khi đã xóa bạn sẽ không thể nào restore lại như window
+
+**Nguồn: Internet**
